@@ -15,7 +15,7 @@
                 if($_POST['name']){
                     echo "***Welcome***<br>"; 
                     echo $_POST['name'];
-                }else {echo "Opps... <br> You Don't Your Name";}
+                }else {echo "Opps... <br> You Don't Provide Your Name";}
                     
                 ?>
                 </h2>
